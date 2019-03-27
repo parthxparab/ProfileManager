@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Profile Manager</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_search">Search</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="nav_item_home">Home</string>
+    <string name="nav_item_friends">Help Desk</string>
+    <string name="nav_item_notifications">About Us</string>
+
+    <!-- navigation drawer item labels  -->
+    <string-array name="nav_drawer_labels">
+        <item>@string/nav_item_home</item>
+        <item>@string/nav_item_friends</item>
+        <item>@string/nav_item_notifications</item>
+    </string-array>
+
+    <string name="title_messages">About Us</string>
+    <string name="title_friends">Help Desk</string>
+    <string name="title_home">Home</string>
+
+    <!-- Sectios Tabs -->
+    <string name="fragment_home_fragment1_title">Add New</string>
+    <string name="fragment_home_fragment2_title">My Alerts</string>
+    <string name="fragment_home_fragment3_title">Custom Profile</string>
+
+
+    <string-array name="fragment_home_sections_tabs_title">
+        <item>@string/fragment_home_fragment1_title</item>
+        <item>@string/fragment_home_fragment2_title</item>
+        <item>@string/fragment_home_fragment3_title</item>
+    </string-array>
+
+</resources>
